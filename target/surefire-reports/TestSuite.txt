@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 8, Time elapsed: 1.662 s <<< FAILURE! - in TestSuite
+testclasses.LoginTest.SetUp[public void testclasses.LoginTest.ExternalDataTest()](0)  Time elapsed: 1.121 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: /home/antimaawasthy24/eclipse-workspace/selenium-maven1/chromedriver
+
